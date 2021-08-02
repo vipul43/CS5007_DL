@@ -1,0 +1,3 @@
+[submodule "image_description"]
+	path = image_description
+	url = git@github.com:vipul43/image_description.git
